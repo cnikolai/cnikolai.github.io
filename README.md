@@ -10,3 +10,5 @@ Cindy began her career in the US Air Force, where she served as a space and miss
 * Hello World: Android app
 
 ## Links
+
+* [LinkedIn](https://www.linkedin.com/in/cynthia-nikolai/)
