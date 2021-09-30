@@ -5,4 +5,8 @@ Cindy began her career in the US Air Force, where she served as a space and miss
 
 ## Current projects
 
+* Hello World: Java console application
+      
+* Hello World: Android app
+
 ## Links
