@@ -12,3 +12,8 @@ Cindy began her career in the US Air Force, where she served as a space and miss
 ## Links
 
 * [LinkedIn](https://www.linkedin.com/in/cynthia-nikolai/)
+
+ > A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
+ > 
+ > Every line (blank or not) of a blockquote begins with `>`, followed by a space.
+
