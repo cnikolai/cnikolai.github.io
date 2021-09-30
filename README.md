@@ -1,2 +1,7 @@
-# cnikolai.github.io
-github pages
+# Cynthia Nikolai
+    
+## Introduction
+    
+## Current projects
+
+## Links
